@@ -6,7 +6,7 @@
 - :fire: See you arround :fire:
 
 ## Otherwise
-- I work at https://builderius.io as a UI/UX designer
+- I work at [Visual Development Enviorment for WordPress - Builderius](https://builderius.io) as a UI/UX designer
 - I moderate [Dynamic WordPress](https://www.facebook.com/groups/dynamicwordpress) Facebook Group
 - I have a dev/design buissness [Abece Design](https://abecede.net)
 - I teach at Visual communication department, at [Academy of Applied Art](https://apuri.hr/stranica/4-krstulovic-elvis/) in Croatia
